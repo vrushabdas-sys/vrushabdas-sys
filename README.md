@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Vrushab Das 👋
 
-<!--
-**vrushabdas-sys/vrushabdas-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- Data Operations Analyst at NIQ
+- MBA in Financial Management
+- Skilled in SQL, Excel, Power BI, Financial Modeling
+- Interested in Data Analytics, Business Analytics and FP&A
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### E-Commerce Sales & Customer Analytics
+SQL-based analytics project with 5,600+ records covering:
+- Customer Analytics
+- Sales Analytics
+- Retention Analysis
+- Revenue Analysis
+
+### Financial Modeling & FP&A Dashboard
+Excel-based financial model including:
+- Revenue Forecasting
+- P&L Analysis
+- Cash Flow
+- Balance Sheet
+- Variance Analysis
+- Executive Dashboard
+
+## Skills
+
+SQL | Excel | Power BI | Financial Modeling | Business Analysis | Dashboarding
